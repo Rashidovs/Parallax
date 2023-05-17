@@ -1,0 +1,117 @@
+html, body{
+   margin: 0;
+}
+
+
+.pimg1 {
+   background-image: url("https://media.cnn.com/api/v1/images/stellar/prod/210316134817-03-wisdom-project-autumn.jpg?q=x_0,y_0,h_2250,w_3998,c_fill/h_720,w_1280/f_webp");
+ width: 100%;
+ min-height: 100vh;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ background-attachment:fixed ;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.ptext{
+   width: 20rem;
+   height: 3rem;
+   background-color: #383834;
+   color: #fff;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+      align-items: center;
+      font-size: x-large;
+}
+.pimg2 {
+   background-image: url("https://c.tadst.com/gfx/600x337/winter-lake.jpg?1");
+   width: 100%;
+      min-height: 100vh;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.ptext2 {
+   width: 20rem;
+   height: 3rem;
+   background-color: #383834;
+   color: #fff;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: x-large;
+}
+.pimg3{
+   background-image: url("https://www.readersdigest.ca/wp-content/uploads/2017/02/american-spring-destinations-michigan.jpg") ;
+width: 100%;
+   min-height: 100vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.ptext3 {
+width: 20rem;
+   height: 3rem;
+   background-color: #383834;
+   color: #fff;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: x-large;
+   
+}
+.pimg4 {
+   background-image: url("https://media.cnn.com/api/v1/images/stellar/prod/210316134738-02-wisdom-project-summer.jpg?q=w_3568,h_2006,x_0,y_0,c_fill");
+min-height: 100vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.ptext4 {
+   width: 20rem;
+      height: 3rem;
+      background-color: #383834;
+      color: #fff;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: x-large;
+      
+}
+.rang {
+   background-color: #383834;
+   color: #fff;
+   margin: 0;
+   padding: 0;
+}
+.look {
+   margin: 0;
+   padding: 0;
+   background-color: #383834;
+      color: #fff;
+}
+.rang1 {
+   margin: 0;
+      padding: 0;
+      background-color: #383834;
+      color: #fff;
+}
